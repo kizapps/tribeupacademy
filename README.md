@@ -1,0 +1,2 @@
+# tribeupacademy
+for facebook bot
